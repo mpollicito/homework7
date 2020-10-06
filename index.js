@@ -31,13 +31,13 @@ const questions = [
     {
         type: "list",
         name: "license",
-        message: "What kind of license does your project use?",
+        message: "Which license does this project use?",
         choices: ["MIT", "Apache 2.0", "GPL 3.0", "BSD 3", "None"]
     },
     {
         type: "input",
         name: "contribute",
-        message: "Who worked on this project?"
+        message: "Who's working on this project?"
     },
     {
         type: "input",
@@ -47,7 +47,7 @@ const questions = [
     {
         type: "input",
         name: "question",
-        message: "Please enter commonly asked questions you may want to address regarding this project"
+        message: "Enter FAQ section, along with your GitHub username or repo, and e-mail here"
     }
 ];
 
@@ -81,13 +81,13 @@ ${response.license}
 ## Contributions
 ${response.contribute}
 
-## Testing
+## Testing & Debugging
 ${response.test}
 
 ## Questions
 ${response.question}`
 
-        writeToFile("reademe.md", markdown)
+        writeToFile("NewReadme.md", markdown)
 
     })
     
