@@ -1,9 +1,9 @@
 # Homework 07 - Good README Generator!
 
 ## Description
-This app was made using node.js running in the integrated terminal of your VSCode program. The user is prompted to input several sections
-and information required to construct a reademe file. This app compiles the responses and formats them into a finished product once all questions
-have been satisfied. 
+This app was made using node.js running in the integrated terminal of VSCode. The purpose of creating this was to design a way to make quick and readable README's.
+The running app will prompt the user to input answers throughout a series of several questions. We now have the information required to construct a readme file. 
+This app compiles the responses and formats them into a finished markdown file.
 
 # User Story
 AS A developer
@@ -18,7 +18,7 @@ SO THAT can quickly create a professional README for a new project
 * [License](#license)
 
 ## Installation
-Having VSCode installed, navigate to the following webist "https://nodejs.org/en/".
+Having VSCode installed, navigate to the following webiste: [https://nodejs.org/en/].
 Download the installer reccomended for "most users".
 Upon completion, open your VSCode, create a new document called "index.js".
 Right click on this file/folder and click "Open in integrated terminal".
@@ -38,15 +38,15 @@ Matthew Pollicito - https://github.com/mpollicito
 Video used to create a demo of this app - https://www.youtube.com/watch?v=v7uScletiPc
 
 ## License
-MIT
+MIT: https://rem.mit-license.org
 
 ## Badges
 https://img.shields.io/badge/license-[MIT]-blue.svg
 https://img.shields.io/github/languages/top/nielsenjared/badmath
 
 ## Tests
-npm install
-node index.js
+* npm install
+* node index.js
 
 ---
 © 2020 Matthew Pollicito, mPollicito graphics. All Rights Reserved.
