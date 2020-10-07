@@ -35,11 +35,12 @@ Congrats you made your first readme with ease! Edit further using markdown.
 ## Credits
 Matthew Pollicito - https://github.com/mpollicito
 
-GitHub Repository - https://github.com/mpollicito/homework7 (Contains the same end result readme constructed in the demo video)
+GitHub Repository - https://github.com/mpollicito/homework7 
+(Contains the same end result readme constructed in the demo video)
 
-Video Demo - https://drive.google.com/file/d/1E17h-2vz7zdkuqBALBA_jWbJa3Yzfyo2/view 
+'Good README Generator' code demo - https://drive.google.com/file/d/1E17h-2vz7zdkuqBALBA_jWbJa3Yzfyo2/view 
 
-Video used to create a demo of this app - https://www.youtube.com/watch?v=v7uScletiPc
+Tutorial video I used to help me create a demo of this app - https://www.youtube.com/watch?v=v7uScletiPc
 
 ## License
 MIT: https://rem.mit-license.org
