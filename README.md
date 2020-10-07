@@ -41,8 +41,8 @@ Video used to create a demo of this app - https://www.youtube.com/watch?v=v7uScl
 MIT: https://rem.mit-license.org
 
 ## Badges
-https://img.shields.io/badge/license-[MIT]-blue.svg
-https://img.shields.io/github/languages/top/nielsenjared/badmath
+(https://img.shields.io/badge/license-[MIT]-blue.svg)
+(https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
 ## Tests
 * npm install
